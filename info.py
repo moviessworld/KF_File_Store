@@ -13,7 +13,7 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'KF FILE STORE')
-API_ID = int(environ.get('API_ID', '22856744'))
+API_ID = int(environ.get('API_ID', '25953006'))
 API_HASH = environ.get('API_HASH', 'd5850aeef7dd3d01fe6b698c0a0d4be8')
 BOT_TOKEN = environ.get('BOT_TOKEN', "7386091834:AAHQp8xE3mxiOmv5J_3WgFkkA0CIz-38lxU")
 
